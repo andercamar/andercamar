@@ -7,7 +7,8 @@ Developer at Magius
 *   🌍  I'm based in Brazil
 *   ✉️  You can contact me at [andercamar@gmail.com](mailto:andercamar@gmail.com)
 *   🧠  I'm learning React, Node.JS and Data Science
-*   ⚡  It's a secret but I'm Batman### Skills 
+
+### Skills 
 <p align="left">
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -21,6 +22,8 @@ Developer at Magius
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
+<a href="https://powerbi.microsoft.com/pt-br/" target="_blank" rel="noreferrer"><img src="https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png" width="36" height="36" alt="Power BI" /></a>
+</p>
                     
 ### Socials
                   
@@ -32,5 +35,5 @@ Developer at Magius
 <a href="https://www.youtube.com/c/@Andercamar " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
 <a href="https://www.twitch.tv/andercamar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
 
-<b>My GitHub Stats</b><a
-href="http://www.github.com/andercamar"><img src="https://github-readme-stats.vercel.app/api?username=andercamar&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="andercamar's GitHub stats" /></a>
+<b>My GitHub Stats</b>
+<a href="http://www.github.com/andercamar"><img src="https://github-readme-stats.vercel.app/api?username=andercamar&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="andercamar's GitHub stats" /></a>
