@@ -22,7 +22,7 @@ Developer at Magius
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-<a href="https://powerbi.microsoft.com/pt-br/" target="_blank" rel="noreferrer"><img src="https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png" width="36" height="36" alt="Power BI" /></a>
+<a href="https://powerbi.microsoft.com/pt-br/" target="_blank" rel="noreferrer"><img src="http://store-images.s-microsoft.com/image/apps.32245.13510798883380398.61d03499-1b25-4924-9207-9384fe3b5b99.3a505d26-d272-4f46-a46b-46dd22268443" width="36" height="36" alt="Power BI" /></a>
 </p>
                     
 ### Socials
