@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer at Magius
 -------------------
 
-*   🌍  I'm based in Brazil
+*   🌍  I'm based in Paraná - Brazil
 *   ✉️  You can contact me at [andercamar@gmail.com](mailto:andercamar@gmail.com)
 *   🧠  I'm learning React, Node.JS and Data Science
 
