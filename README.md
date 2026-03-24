@@ -4,7 +4,7 @@
 
 * 🌍 I'm based in Paraná, Brazil
 * ✉️ You can contact me at [andercamar@gmail.com](mailto:andercamar@gmail.com)
-* 🧠 I'm currently learning **React, Node.js and Data Science**
+* 🧠 I am always learning and expanding my knowledge, currently focused on **React, Node.js and Data Science**
 
 ---
 
