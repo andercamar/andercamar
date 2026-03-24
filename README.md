@@ -27,13 +27,6 @@
   <a href="https://powerbi.microsoft.com/pt-br/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="36" height="36" alt="Power BI" /></a>
 </p>
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=andercamar&show_icons=true&theme=radical" alt="andercamar's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andercamar&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
 ### 🤝 Connect with me
 
 <p align="left">
